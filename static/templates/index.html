@@ -156,6 +156,8 @@
           </div>
         </div>
       </div>
+
+
     </section>
 
     <!-- Bootstrap core JavaScript -->
@@ -170,6 +172,20 @@
     <!-- Custom scripts for this template -->
     <script src="../../static/js/creative.min.js"></script>
 
+    <form method="post">{% csrf_token %}
+        {{ form.as_p }}
+        <input type="submit" value="Update">
+    </form>
+    <h1>Events</h1>
+
+    <ul>
+    {% for event in object_list %}
+        <li>{{ event.title }} - {{ event.message }}</li>
+    {% empty %}
+        <li>No event yet.</li>
+        <li>sneak event</li>
+    {% endfor %}
+    </ul>
   </body>
 
 </html>
