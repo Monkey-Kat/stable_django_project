@@ -1,0 +1,401 @@
+[33mcommit f2305d57dd30c970c84781bbd660a1114494474e[m[33m ([m[1;36mHEAD -> [m[1;32mnew_test_branch[m[33m, [m[1;31morigin/new_test_branch[m[33m)[m
+Author: flux <rachel.m.govert@gmail.com>
+Date:   Tue Aug 21 21:19:15 2018 -0400
+
+    dont commit
+
+[33mcommit 0d7a499dcb021526d78a3691598bb1d0e826147f[m
+Author: flux <rachel.m.govert@gmail.com>
+Date:   Tue Aug 21 21:08:07 2018 -0400
+
+    do no merge
+
+[33mcommit 44ac715842ddd9b3758464c6a89eaf5481060e94[m[33m ([m[1;31morigin/create_list_view_added[m[33m, [m[1;32mcreate_list_view_added[m[33m)[m
+Author: flux <rachel.m.govert@gmail.com>
+Date:   Tue Aug 21 20:14:46 2018 -0400
+
+    create and list view added
+
+[33mcommit aab4e56a2408ba551cedf7f5356eaf4ca464fb96[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Kevin <kevin@capsulerx.com>
+Date:   Thu May 24 23:48:11 2018 -0400
+
+    removed user specific data to variables
+
+[33mcommit 2b4ccb99bce4ea7b10d5bafec98668a928001fa8[m
+Author: Kevin <kevin@capsulerx.com>
+Date:   Tue May 22 19:42:23 2018 -0400
+
+    Update settings.py
+
+[33mcommit 196c77a2b5dc82fa378cf689af1deb9a306f0c1c[m
+Author: Kevin <kevin@capsulerx.com>
+Date:   Tue May 22 19:31:08 2018 -0400
+
+    Update settings.py
+
+[33mcommit 31d7422632feb007605ce573f602027f1362be64[m
+Author: Kevin <kevin@capsulerx.com>
+Date:   Tue May 22 19:28:00 2018 -0400
+
+    Update settings.py
+
+[33mcommit eec3278a6cc91f5e84711deb199a6967d93c6de3[m
+Author: Kevin <kevin@capsulerx.com>
+Date:   Tue May 22 19:23:53 2018 -0400
+
+    Update README.md
+
+[33mcommit 0f82e022467b55528d097c15954a1ac64c5f9cb1[m
+Author: Kevin <kevin@capsulerx.com>
+Date:   Tue May 22 17:57:38 2018 -0400
+
+    Update settings.py
+
+[33mcommit da96e42575f4ae686c79be2462f3f201a215f263[m
+Author: Kevin <kevin@capsulerx.com>
+Date:   Tue May 22 17:33:59 2018 -0400
+
+    Update settings.py
+
+[33mcommit de16bd2b916e99e5253cdc2d168e719a2d66b4fd[m
+Author: Kevin <kevin@capsulerx.com>
+Date:   Tue May 22 17:31:55 2018 -0400
+
+    Update settings.py
+
+[33mcommit 30461a8d373fb20ab3392a99003e907e6b8ba41b[m
+Author: Kevin <kevin@capsulerx.com>
+Date:   Tue May 22 17:12:57 2018 -0400
+
+    Update README.md
+
+[33mcommit 59aa030bc2fdc40bc86f020565323179cef74517[m
+Author: Kevin <kevin@capsulerx.com>
+Date:   Tue May 22 16:58:46 2018 -0400
+
+    Update README.md
+
+[33mcommit b65cedc627f0bd4712651070ec6e553d5f4a912f[m
+Author: Kevin Wojton <your.kfwojton@gmail.com>
+Date:   Wed May 16 13:18:06 2018 -0400
+
+    removed postgres database config
+
+[33mcommit 7801f8dc9d3930116fc7a2464fe2df40fdfbea49[m
+Author: Kevin <kevin@capsulerx.com>
+Date:   Mon May 14 11:51:54 2018 -0400
+
+    Update README.md
+
+[33mcommit 3f545ec278d896be7f0fb2180ede55fa0058a8d3[m
+Author: Kevin <kevin@capsulerx.com>
+Date:   Mon May 14 11:49:49 2018 -0400
+
+    Update README.md
+
+[33mcommit 59d6aedd5ea72f927eed00a57b33693a3d6e5280[m
+Author: Kevin <kevin@capsulerx.com>
+Date:   Mon May 14 11:31:39 2018 -0400
+
+    Deleted security issue package-lock.json
+
+[33mcommit 6674b417a17c6a8ae362a266ec819f6bf3ab624e[m
+Author: Kevin <kevin@capsulerx.com>
+Date:   Mon May 14 11:29:21 2018 -0400
+
+    Update README.md
+
+[33mcommit 1eb6f5dac663a4b64c1053fa101c6ecc88f179aa[m
+Author: Kevin <kevin@capsulerx.com>
+Date:   Mon May 14 11:28:55 2018 -0400
+
+    Update README.md
+
+[33mcommit 0e9882d9be959643993106b733331be8ca21be25[m
+Author: Kevin <kevin@capsulerx.com>
+Date:   Mon May 14 11:28:12 2018 -0400
+
+    Update README.md
+
+[33mcommit 0474b24e02329cb465926cf9c1af05ad593dd61d[m
+Author: Kevin <kevin@capsulerx.com>
+Date:   Mon May 14 11:27:38 2018 -0400
+
+    Update README.md
+
+[33mcommit 4998163c1a1ecba2ec39c7af1ecea9dfbd057f12[m
+Author: Kevin <kevin@capsulerx.com>
+Date:   Mon May 14 11:27:04 2018 -0400
+
+    Create README.md
+
+[33mcommit a585b5b51822612a9fec316eaa97225085f509c3[m
+Author: Kevin Wojton <your.kfwojton@gmail.com>
+Date:   Mon May 14 11:13:48 2018 -0400
+
+    collected_static
+
+[33mcommit 577dbd46232b484d5be73ead4cd0c8633651f066[m
+Author: Kevin Wojton <your.kfwojton@gmail.com>
+Date:   Mon May 14 11:11:27 2018 -0400
+
+    first commit
+
+[33mcommit 4fb0de53698bef26ad53df5167f5069dd9a34b0a[m
+Author: Kevin Wojton <your.kfwojton@gmail.com>
+Date:   Mon Apr 23 13:17:22 2018 -0400
+
+    fixed dates on same day period
+
+[33mcommit e54c3a646709e4c5cca1a8cb95325e438556b130[m
+Author: Kevin Wojton <your.kfwojton@gmail.com>
+Date:   Tue Apr 17 09:28:50 2018 -0400
+
+    ordered by date
+
+[33mcommit 34ed0ce87c3f4ac0467b8c7ca8845b76a501ceeb[m
+Author: Kevin <kevin@capsulerx.com>
+Date:   Mon Apr 16 21:37:41 2018 -0400
+
+    Update index.html
+
+[33mcommit e3e468c11f550084c384bf8621fbeb66a7964d21[m
+Merge: 9fb77cbb 68fcf0bc
+Author: Kevin <kevin@capsulerx.com>
+Date:   Thu Apr 12 20:27:05 2018 -0400
+
+    Merge pull request #8 from kfwojton/better_dates
+    
+    better dates
+
+[33mcommit 68fcf0bc985cdd05acd9956aad7aad9170a865b3[m
+Author: Kevin Wojton <your.kfwojton@gmail.com>
+Date:   Wed Apr 11 10:52:27 2018 -0400
+
+    better dates
+
+[33mcommit 9fb77cbba481d4f22a36e0fb217959b43c531df6[m
+Merge: c81b1d3d 73086d08
+Author: Kevin <kevin@capsulerx.com>
+Date:   Wed Apr 11 10:22:15 2018 -0400
+
+    Merge pull request #7 from kfwojton/added_production_database
+    
+    added database config
+
+[33mcommit 73086d08539fc3f2b9a00c541f956804a0894a43[m
+Author: Kevin Wojton <your.kfwojton@gmail.com>
+Date:   Wed Apr 11 10:20:36 2018 -0400
+
+    added database config
+
+[33mcommit c81b1d3d37d7333b24de7bf1bbcbb85bcc917494[m
+Merge: 74e3b645 042b4829
+Author: Kevin <kevin@capsulerx.com>
+Date:   Tue Apr 10 14:08:26 2018 -0400
+
+    Merge pull request #6 from kfwojton/added_dynamic_events
+    
+    added dynamic event listings
+
+[33mcommit 042b482946779980fbbbdc06e49faa51a8999174[m
+Author: Kevin Wojton <your.kfwojton@gmail.com>
+Date:   Tue Apr 10 14:07:42 2018 -0400
+
+    changed on line of content
+
+[33mcommit d003080ea889fd609f783ac5b1c9376b8b7629e4[m
+Author: Kevin Wojton <your.kfwojton@gmail.com>
+Date:   Mon Apr 9 17:34:02 2018 -0400
+
+    added dynamic event listings
+
+[33mcommit 74e3b645bd1fc13bdd7d9335e3455ec16d6ef0bf[m
+Merge: 2bbc0dbd 075412a5
+Author: Kevin <kevin@capsulerx.com>
+Date:   Sat Mar 31 15:52:20 2018 -0400
+
+    Merge pull request #5 from kfwojton/added_coming_soon_text
+    
+    added coming soon text
+
+[33mcommit 075412a51c30c55d1f96604e9328370565b7c89e[m
+Author: Kevin Wojton <your.kfwojton@gmail.com>
+Date:   Sat Mar 31 15:52:01 2018 -0400
+
+    changed to under construction
+
+[33mcommit 7e4f3a73456e6269ade97465f6bf9e9806b044ca[m
+Author: Kevin Wojton <your.kfwojton@gmail.com>
+Date:   Sat Mar 31 14:35:55 2018 -0400
+
+    added coming soon text
+
+[33mcommit 2bbc0dbdaceec672c77ea249966b4b8112993556[m
+Author: Kevin Wojton <your.kfwojton@gmail.com>
+Date:   Mon Mar 26 17:40:16 2018 -0400
+
+    added google tracking code
+
+[33mcommit 16e1522ae8ce5b8fd11baeba24bce78f16c18e83[m
+Author: Kevin Wojton <your.kfwojton@gmail.com>
+Date:   Mon Mar 26 14:28:47 2018 -0400
+
+    nothing
+
+[33mcommit 572142fada984b73328d2bbc42ae1adc72a6afe0[m
+Author: Kevin Wojton <your.kfwojton@gmail.com>
+Date:   Sun Mar 25 13:39:52 2018 -0400
+
+    added whitenoise middleware
+
+[33mcommit 1c0edd8b4ec1a88efb642967cf9732040a2adc49[m
+Author: Kevin Wojton <your.kfwojton@gmail.com>
+Date:   Sun Mar 25 13:35:39 2018 -0400
+
+    settings updated
+
+[33mcommit 1ffea00142627a905f3706ae7b64275ebb59ff64[m
+Author: Kevin Wojton <your.kfwojton@gmail.com>
+Date:   Sun Mar 25 13:22:15 2018 -0400
+
+    needed to add ../../static files prefix
+
+[33mcommit 5e4c62461e864dc0e956a77865189651bb14790e[m
+Author: Kevin Wojton <your.kfwojton@gmail.com>
+Date:   Sun Mar 25 13:18:27 2018 -0400
+
+    aded allowed_hosts
+
+[33mcommit c7bd2504158ce5d2c6ffd3033522b6febff692d3[m
+Author: Kevin Wojton <your.kfwojton@gmail.com>
+Date:   Sun Mar 25 13:16:27 2018 -0400
+
+    added gunicorn requirement
+
+[33mcommit eb34e60a61779462a7af1ce1736ca9cbeba34f05[m
+Author: Kevin Wojton <your.kfwojton@gmail.com>
+Date:   Sun Mar 25 13:10:12 2018 -0400
+
+    added procfile
+
+[33mcommit 3ecc728b5ae295d43e5961582b792fe5a6bd8b5a[m
+Merge: 2cb39a61 1005c7ce
+Author: Kevin <kevin@capsulerx.com>
+Date:   Sun Mar 25 13:03:54 2018 -0400
+
+    Merge pull request #4 from kfwojton/updated_content_and_refined_code
+    
+    Updated content and refined code
+
+[33mcommit 1005c7cefe7f27e8acb5ca2a1e31aa21693d3bda[m
+Author: Kevin Wojton <your.kfwojton@gmail.com>
+Date:   Sun Mar 25 13:01:43 2018 -0400
+
+    made changes to karens review
+
+[33mcommit 7a3f1c9b98478b7947f62b183d4344c6962b0149[m
+Author: Kevin Wojton <your.kfwojton@gmail.com>
+Date:   Fri Mar 23 13:27:46 2018 -0400
+
+    requirements.txt added
+
+[33mcommit 9f0bc4fe0bbe4f780871cefd2dda8ae76334caf6[m
+Author: Kevin Wojton <your.kfwojton@gmail.com>
+Date:   Fri Mar 23 13:24:03 2018 -0400
+
+    added email send and fixed a few link issues
+
+[33mcommit 66fbd4111fccfdb14dde6ab46b5414b3893f583d[m
+Author: Kevin Wojton <your.kfwojton@gmail.com>
+Date:   Sat Mar 17 10:04:22 2018 -0400
+
+    first pass
+
+[33mcommit 2cb39a61735c6ccbf9698b5075cc2e1b444c8e2b[m
+Merge: 30fc9f3d 2123aeec
+Author: Kevin <kevin@capsulerx.com>
+Date:   Thu Mar 15 18:57:07 2018 -0400
+
+    Merge pull request #3 from kfwojton/content_first_pass
+    
+    Content first pass
+
+[33mcommit 2123aeec24453e8592f32936168a610ab395a70a[m
+Author: Karen Thang <kthang@Karens-MacBook-Pro.local>
+Date:   Thu Mar 15 17:21:20 2018 -0400
+
+    updated contact page
+
+[33mcommit 571297358771bc403b85c5963917aef6aea2fccf[m
+Author: Karen Thang <kthang@Karens-MacBook-Pro.local>
+Date:   Thu Mar 15 15:37:50 2018 -0400
+
+    added content to about
+
+[33mcommit 30fc9f3d0b87b984bac5853f0d17ebe0a0d88c6f[m
+Merge: fe57b806 83caa329
+Author: Kevin <kevin@capsulerx.com>
+Date:   Sun Mar 11 15:51:36 2018 -0400
+
+    Merge pull request #2 from kfwojton/fixed_headers
+    
+    made headers work on everpage and added missing pages
+
+[33mcommit 83caa329beeee81193bbafd5c14b6ccabf93afbb[m
+Author: Kevin Wojton <your.kfwojton@gmail.com>
+Date:   Sun Mar 11 15:51:04 2018 -0400
+
+    kick off server
+
+[33mcommit 83eb779987e0bfc10c1cd8f72dc934154a13266d[m
+Author: Kevin Wojton <your.kfwojton@gmail.com>
+Date:   Sun Mar 11 15:47:45 2018 -0400
+
+    removed __pycache__ files
+
+[33mcommit cef5bd50789e4ac9bfc9b8c370567349fd665033[m
+Author: Kevin Wojton <your.kfwojton@gmail.com>
+Date:   Sun Mar 11 15:44:30 2018 -0400
+
+    made headers work on everpage and added missing pages
+
+[33mcommit fe57b806e8bd4bb15c2fe188568f1bef35ad825d[m
+Merge: 37e4a239 79c3e4d6
+Author: kthang03 <karenthang@gmail.com>
+Date:   Sat Mar 10 16:21:54 2018 -0500
+
+    Merge pull request #1 from kfwojton/karens_branch
+    
+    Karens branch
+
+[33mcommit 79c3e4d6a402d2f2dcc6613a670de41090ae6837[m
+Author: Karen Thang <kthang@Karens-MacBook-Pro.local>
+Date:   Sat Mar 10 15:47:32 2018 -0500
+
+    deleted myenv
+
+[33mcommit ddef7549e3e064f6d619f28bc9c65f23f4a25b38[m
+Author: Karen Thang <kthang@Karens-MacBook-Pro.local>
+Date:   Sat Mar 10 15:39:58 2018 -0500
+
+    I changed index and added static files
+
+[33mcommit 37e4a239677eb655b1748e7a18dd2178fad8860e[m
+Author: Kevin Wojton <your.kfwojton@gmail.com>
+Date:   Wed Mar 7 10:20:31 2018 -0500
+
+    added about us page
+
+[33mcommit d43c862bbb2032996046e1c9cd12d7117e126266[m
+Author: Kevin Wojton <your.kfwojton@gmail.com>
+Date:   Wed Mar 7 10:02:46 2018 -0500
+
+    added requirements.txt
+
+[33mcommit e0e7a902a5219130c0b60aab1907695c45923379[m
+Author: Kevin Wojton <your.kfwojton@gmail.com>
+Date:   Wed Mar 7 09:29:04 2018 -0500
+
+    initialized templates
