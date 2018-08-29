@@ -9,16 +9,15 @@ from django.utils import timezone
 class Home(TemplateView):
     template_name = "index.html"
 
-from django.views.generic.edit import CreateView
-from results.models import Events
+class Portfolio(TemplateView):
+    template_name = "portfolio.html"
 
-class EventCreate(CreateView):
-    model = Events
+
+class DynamicURL(TemplateView):
     template_name = "index.html"
-    success_url = "list/"
 
-    fields = ['title','message']
-
-class ListItems(ListView):
-    model = Events
-    template_name = "index.html"
+    def get_context_data(self, **kwargs):
+        print('hello')
+        print(kwargs)
+        #ADD {{things}} to index.html to test that it works - go to url /r/lskdjfalksdthings and it should show up
+        return kwargs
